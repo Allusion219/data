@@ -1,3 +1,5 @@
 
 Test file for practicing git workflow
 track history in git using git log
+
+Do I really want to continue living life as a candle in the wind?
